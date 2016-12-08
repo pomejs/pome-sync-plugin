@@ -1,0 +1,9 @@
+{
+  "name": "pome-sync-plugin",
+  "version": "0.0.2",
+  "private": false,
+  "dependencies": {
+    "pome-sync": "0.0.4",
+    "pome-logger": "0.1.6"
+  }
+}
